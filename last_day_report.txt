@@ -1,0 +1,60 @@
+Komirisetty Pavan
+Kota Uma Sankara Ganesh - github
+Manoj Lohani
+Mohammed Shahid
+Gunuru Ramya
+KY, Sharath
+Nikhita.mirajkar - github
+Jayakrishna.boya - github
+Saipriya.sp - github
+
+
+-----------------------------
+
+
+flask 
+
+1. chandriga
+2, arpithaa
+3, bhargav raj
+4, nikitha
+5, saipriya
+6, jayakrishna
+
+
+------------------------------
+
+CRUD - create read update delete the data in server
+
+server cannot 
+timeout response
+
+
+
+
+f.e to b.e - json 
+b.e to f.e - json
+
+jsonparser
+
+in the terminal :
+
+pip freeze > requirements.txt 
+
+xampp server
+mysql - workbench
+postgresql
+sqlalchemy - flask 
+mongodb
+
+
+postman - get post delete put
+
+
+1, flask - html connect with xamp
+2, flask - crud xampp
+3, flask crud with server - mongodb
+4, flask crud with export csv , data analyst 
+5, optional - debugging , logging , pytest
+
+pythonanywhere - free deployment
